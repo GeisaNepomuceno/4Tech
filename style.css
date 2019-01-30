@@ -1,0 +1,69 @@
+.dark {
+    background: #383B40;
+}
+
+.white {
+    color: white;
+}
+
+.white:hover {
+    color: rgba(255, 255, 255, 0.836);
+}
+
+.img-small {
+    width: 4.5rem;
+    height: 2.5rem;
+    padding: 0.3rem;
+}
+
+.nav {
+    height: 2.7rem;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.edit-icon {
+    background: rgb(226, 226, 40);
+    color: white;
+    box-shadow: none;
+    border-color:rgb(226, 226, 40);
+}
+
+.edit-icon:hover {
+    background: rgb(226, 226, 40);
+    color: white;
+    border-color: rgb(226, 226, 40);
+}
+
+.edit-icon:focus {
+    background: rgb(226, 226, 40);
+    color: white;
+    box-shadow: none;
+}
+
+.edit-icon:active {
+    background: rgb(226, 226, 40);
+    color: white;
+    box-shadow: none;
+}
+
+.trash-icon {
+    background: red;
+    color: white;
+    box-shadow: none;
+    border-color: red;
+}
+
+.trash-icon:hover {
+    background: red;
+    color: white;
+    border-color: red;
+}
+
+.trash-icon:focus {
+    background: red;
+    color: white;
+    box-shadow: none;
+}
